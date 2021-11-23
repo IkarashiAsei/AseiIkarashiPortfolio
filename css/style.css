@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
-@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
 
 /* reset */
@@ -118,17 +118,17 @@ section h2{
 }
 
 
-/* SEC01 VISION
+/* SEC01 LIFE STOR
 ------------------------------------------------------------*/
 
-.vision{
+.life{
 	width: 60%;
 	margin: 0 auto;
 	padding-bottom: 80px;
 }
 
 
-/* SEC02 MESSAGE
+/* SEC02 SKILL
 ------------------------------------------------------------*/
 .wrap{
 	clear: both;
@@ -145,7 +145,7 @@ section h2{
 }
 
 
-/* SEC03 SERVICE MESSAGE STORY
+/* SEC03 SWORK/SNS
 ------------------------------------------------------------*/
 .col3 li{
 	margin-bottom: 50px;
@@ -163,7 +163,7 @@ section h2{
 }
 
 
-/* SEC04 STORY & SUCCESS
+/* SEC04 志望動機
 ------------------------------------------------------------*/
 #sec04{
 	background: url(../images/bgSec04.jpg) no-repeat 100% 100% fixed;
@@ -286,7 +286,7 @@ section h2{
 		padding: 20px 10px;
 	}
 
-	/* SEC02 MESSAGE
+	/* SEC02 SKILL
 	-----------------*/
 	.txt, .bg{
 		width: 50%;
@@ -305,7 +305,7 @@ section h2{
 		vertical-align: middle;
 	}
 	
-	/* SEC03 SERVICE MESSAGE STORY
+	/* SEC03 WORK/SNS
 	-----------------*/
 	.col3{
 		text-align: center;
